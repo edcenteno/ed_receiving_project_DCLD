@@ -1,0 +1,20 @@
+{
+  "name": "pallet-visualizer-i18n",
+  "version": "1.0.0",
+  "main": "index.jsx",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.160.0",
+    "react-i18next": "^13.0.0",
+    "i18next": "^23.6.0",
+    "i18next-browser-languagedetector": "^7.0.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
